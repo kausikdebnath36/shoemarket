@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173765778388",
+    "project_id": "shoemarket-6fe0e",
+    "storage_bucket": "shoemarket-6fe0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173765778388:android:0ed31e0cf221eed6695441",
+        "android_client_info": {
+          "package_name": "com.kausik.debnath.shoemarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHwy7lDVXTSwTIcFWKGXiWskH_a6vy72k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
