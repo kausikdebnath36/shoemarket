@@ -1,6 +1,6 @@
 # shoemarket
 
-A new Flutter project.
+A Ecommerce Application for Shoes and Acessories.
 
 ## Getting Started
 
